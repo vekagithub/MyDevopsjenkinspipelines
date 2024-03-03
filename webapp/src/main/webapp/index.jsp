@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To DEVOPS Engineering World next versions with udpated to every where  </h1>
+<h1>Welcome To DEVOPS Engineering   </h1>
 </body>
 <body style="color:green;">
  
